@@ -1,12 +1,12 @@
 ---
 title: A scheduled post
-date: '2022-06-18'
+date: '2022-10-02'
 tags:
   - demo-content
   - simple-post
   - blog
 ---
-
+This is a another post ....
 This post is scheduled for the future, specifically mid-2022. Hopefully you're still blogging by then too. Once that date ticks by, this post will automatically become published and visible.
 
 Otherwise, below is some styled content for you to play with.
